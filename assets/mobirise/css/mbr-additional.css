@@ -2682,6 +2682,26 @@ body {
   background-color: #5a31fb;
   background: linear-gradient(90deg, #5a31fb, #000000);
 }
+.cid-rbFD0MxKWS {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+}
+.cid-rbFD0MxKWS .container-fluid {
+  padding: 0 3rem;
+}
+.cid-rbFD0MxKWS .media-container-column {
+  padding: 0 2rem;
+}
+.cid-rbFD0MxKWS .mbr-section-title {
+  display: inline-block;
+  position: relative;
+}
+@media (max-width: 767px) {
+  .cid-rbFD0MxKWS .container-fluid {
+    padding: 0 1rem;
+  }
+}
 #custom-html-3x .my-image {
   width: 100%;
 }
