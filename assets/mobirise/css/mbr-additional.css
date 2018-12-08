@@ -2658,6 +2658,20 @@ body {
 .cid-rby9RDiVGR .mbr-section-btn {
   color: #ffffff;
 }
+.cid-rbFAa1f0vl {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ff7d84;
+}
+.cid-rbFAa1f0vl .media-container-row {
+  flex-wrap: wrap;
+}
+.cid-rbFAa1f0vl .media-container-row .mbr-text I {
+  color: #ffffff;
+}
+.cid-rbFAa1f0vl .media-container-row .mbr-text {
+  text-align: left;
+}
 .cid-rbC9rgI2ZJ {
   padding-top: 60px;
   padding-bottom: 60px;
