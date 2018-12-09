@@ -1852,7 +1852,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "{JS_CODE_0} \n <div class=\"powr-reviews\" id=\"3fcf3bb6_1544296090\"></div>",
+          "_customHTML": "{JS_CODE_0} \n <div class=\"powr-reviews\" id=\"3fcf3bb6_1544296090\"></div>\n{JS_CODE_1} \n <div class=\"powr-popup\" id=\"99ac59aa_1544323087\"></div>",
           "_customCSS": "\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -1862,6 +1862,7 @@
           "_anchor": "custom-html-3x",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
+            "<script src=\"//www.powr.io/powr.js?external-type=html\"></script>",
             "<script src=\"//www.powr.io/powr.js?external-type=html\"></script>"
           ]
         },
