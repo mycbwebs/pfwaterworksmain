@@ -716,7 +716,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "<script src=\"//www.powr.io/powr.js?external-type=html\"></script> \n <div class=\"powr-popup\" id=\"99ac59aa_1544323087\"></div>",
+        "header_custom": "",
         "footer_custom": "<script src=\"//www.powr.io/powr.js?external-type=html\"></script> \n <div class=\"powr-popup\" id=\"99ac59aa_1544323087\"></div>",
         "html_before": "\n"
       },
